@@ -9,8 +9,7 @@
     }
   ],
   "require": {
-    "ext-json": "*",
-    "amphp/http-client": "^4.2"
+    "ext-json": "*"
   },
   "require-dev": {
     "symfony/var-dumper": "^5.0",
